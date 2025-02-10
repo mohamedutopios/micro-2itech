@@ -1,0 +1,108 @@
+# Build Folders (bin and obj)
+**/bin/
+**/obj/
+
+# .NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# Visual Studio temporary files
+.vs/
+.vsconfig
+
+# ASP.NET Core specific
+wwwroot/
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Docker-related files
+**/docker-compose.override.yml
+**/docker-compose.override.*.yml
+
+# Logs
+*.log
+logs/
+**/logs/
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+# NPM/NodeJS (if using front-end components)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# NuGet packages
+*.nupkg
+.nuget/
+
+# Database files
+*.db
+*.mdf
+*.ldf
+*.sqlite
+
+# Secrets
+secrets.json
+*.key
+*.pem
+
+# Publish output
+publish/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Kubernetes config (if using)
+.kube/
+
+# Environment variables files
+.env
+.env.*
+
+# Terraform files (if using infrastructure as code)
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Certificate files
+*.pfx
+*.cer
+*.crt
+*.der
+
+# JetBrains Rider IDE cache
+.idea/
+
+# Temporary files
+*.swp
+*.lock
