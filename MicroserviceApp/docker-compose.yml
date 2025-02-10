@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+
+  productdb:
+    image: postgres
+    container_name: productdb
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: ProductDb
+    ports:
+      - "5432:5432"
+    networks:
+      - microservices-network
+
+  customerdb:
+    image: mysql
+    container_name: customerdb
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: CustomerDb
+    ports:
+      - "3307:3306"  
+    networks:
+      - microservices-network
+
+
+  orderdb:
+    image: mongo
+    container_name: orderdb
+    ports:
+      - "27017:27017"
+    networks:
+      - microservices-network
+
+networks:
+  microservices-network:
+    driver: bridge
