@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\services\\icustomersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\services\\icustomersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\services\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\services\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "CustomerService\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "CustomerService\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Program.cs*",
+              "RelativeToolTip": "CustomerService\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T14:21:04.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomersService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Services\\CustomersService.cs",
-              "RelativeDocumentMoniker": "CustomerService\\Services\\CustomersService.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Services\\CustomersService.cs",
-              "RelativeToolTip": "CustomerService\\Services\\CustomersService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T14:07:13.84Z",
+              "WhenOpened": "2025-02-10T15:18:25.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICustomersService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Services\\ICustomersService.cs",
-              "RelativeDocumentMoniker": "CustomerService\\Services\\ICustomersService.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Services\\ICustomersService.cs",
-              "RelativeToolTip": "CustomerService\\Services\\ICustomersService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerService\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T14:06:54.451Z",
+              "WhenOpened": "2025-02-10T15:17:42.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "CustomerService\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "CustomerService\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:56:01.307Z",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T15:16:39.737Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Repositories\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "CustomerService\\Repositories\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Repositories\\ICustomerRepository.cs",
-              "RelativeToolTip": "CustomerService\\Repositories\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:55:47.515Z"
             }
           ]
         }

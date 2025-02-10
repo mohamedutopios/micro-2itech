@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\customerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D986109-A321-49CB-83AC-377F6A437ACF}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Program.cs",
+              "RelativeToolTip": "CustomerService\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:18:25.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerService\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:17:42.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T15:16:39.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
