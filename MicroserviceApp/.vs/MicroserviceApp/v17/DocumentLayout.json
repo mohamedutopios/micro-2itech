@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "CustomerService\\Program.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\CustomerService\\Program.cs",
               "RelativeToolTip": "CustomerService\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T15:18:25.361Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "CustomerService\\Controllers\\CustomerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T15:17:42.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T15:17:42.154Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "CustomerService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T15:16:39.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T15:16:39.737Z"
             }
           ]
         }
