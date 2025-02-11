@@ -1,9 +1,10 @@
-﻿namespace OrderService.Clients
+﻿using OrderService.DTO;
+
+namespace OrderService.Clients
 {
     public interface IProductServiceClient
     {
-        Task<bool> ProductExistAsync(int productId);
-
-
+        Task<bool> ProductExistsAsync(int productId);
+        Task<ProductDTO?> GetProductDetailsAsync(int productId);
     }
 }

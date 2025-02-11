@@ -8,6 +8,8 @@ namespace OrderService.Repositories
         Task<Order?> GetByIdAsync(string id);
         Task AddAsync(Order order);
         Task UpdateAsync(Order order);
-        Task DeleteAsync(string id);
+        Task<bool> DeleteAsync(string id);
+        Task DeleteByCustomerIdAsync(int customerId);
+        Task DeleteByProductIdAsync(int productId);
     }
 }

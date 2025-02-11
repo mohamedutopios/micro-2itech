@@ -7,9 +7,9 @@ namespace CustomerService.Services
     {
         private readonly ICustomerRepository _repository;
 
-        public CustomersService(ICustomerRepository customerRepository)
+        public CustomersService(ICustomerRepository repository)
         {
-            _repository = customerRepository;
+            _repository = repository;
         }
 
         public async Task<IEnumerable<Customer>> GetAllCustomersAsync() =>

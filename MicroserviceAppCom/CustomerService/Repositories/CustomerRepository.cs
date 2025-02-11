@@ -8,15 +8,26 @@ namespace CustomerService.Repositories
     {
         private readonly CustomerContext _context;
 
-        public CustomerRepository(CustomerContext customerContext)
+        public CustomerRepository(CustomerContext context)
         {
-            _context = customerContext;
+            _context = context;
         }
 
+        public async Task<IEnumerable<Customer>> GetAllAsync() =>
+            await _context.Customers.ToListAsync();
+
+        public async Task<Customer?> GetByIdAsync(int id) =>
+            await _context.Customers.FindAsync(id);
 
         public async Task AddAsync(Customer customer)
         {
-            await _context.AddAsync(customer);
+            await _context.Customers.AddAsync(customer);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task UpdateAsync(Customer customer)
+        {
+            _context.Customers.Update(customer);
             await _context.SaveChangesAsync();
         }
 
@@ -28,22 +39,6 @@ namespace CustomerService.Repositories
                 _context.Customers.Remove(customer);
                 await _context.SaveChangesAsync();
             }
-        }
-
-        public async Task<IEnumerable<Customer>> GetAllAsync()
-        {
-           return await _context.Customers.ToListAsync();
-        }
-
-        public async Task<Customer?> GetByIdAsync(int id)
-        {
-            return await _context.Customers.FindAsync(id);
-        }
-
-        public async Task UpdateAsync(Customer customer)
-        {
-            _context.Customers.Update(customer);
-           await _context.SaveChangesAsync();
         }
     }
 }

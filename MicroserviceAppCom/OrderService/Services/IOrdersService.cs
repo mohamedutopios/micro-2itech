@@ -1,15 +1,15 @@
-﻿using OrderService.Models;
+﻿using OrderService.DTO;
+using OrderService.Models;
 
 namespace OrderService.Services
 {
     public interface IOrdersService
     {
-        Task<IEnumerable<Order>> GetAllOrdersAsync();
-        Task<Order?> GetOrderByIdAsync(string id);
-        Task<Order> AddOrderAsync(Order order);
-        Task UpdateOrderAsync(Order order);
-        Task DeleteOrderAsync(string id);
-
-
+        Task<IEnumerable<OrderDTO>> GetAllOrdersAsync();
+        Task<OrderDTO?> GetOrderByIdAsync(string id);
+        Task<OrderDTO?> CreateOrderAsync(OrderDTO orderDto);
+        Task<bool> UpdateOrderAsync(string id, OrderDTO orderDto);
+        Task<bool> DeleteOrderAsync(string id);
+       
     }
 }

@@ -9,6 +9,5 @@ namespace CustomerService.Repositories
         Task AddAsync(Customer customer);
         Task UpdateAsync(Customer customer);
         Task DeleteAsync(int id);
-
     }
 }

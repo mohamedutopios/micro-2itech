@@ -28,7 +28,16 @@ namespace OrderService.Repositories
         public async Task UpdateAsync(Order order) =>
             await _orders.ReplaceOneAsync(o => o.Id == order.Id, order);
 
-        public async Task DeleteAsync(string id) =>
-            await _orders.DeleteOneAsync(o => o.Id == id);
+        public async Task<bool> DeleteAsync(string id)
+        {
+            var result = await _orders.DeleteOneAsync(o => o.Id == id);
+            return result.DeletedCount > 0;
+        }
+
+        public async Task DeleteByCustomerIdAsync(int customerId) =>
+            await _orders.DeleteManyAsync(o => o.CustomerId == customerId);
+
+        public async Task DeleteByProductIdAsync(int productId) =>
+            await _orders.DeleteManyAsync(o => o.ProductId == productId);
     }
 }

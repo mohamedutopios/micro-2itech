@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\orderservice\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceapp\\orderservice\\configurations\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E92673B-2B6A-4A38-BDE0-7D3D54C5E74F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\configurations\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\Models\\Order.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\Models\\Order.cs",
               "RelativeToolTip": "OrderService\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T10:41:58.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\Controllers\\OrderController.cs*",
-              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T10:41:50.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "OrderService\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "OrderService\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T10:37:57.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\appsettings.json",
-              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\appsettings.json",
-              "RelativeToolTip": "OrderService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-11T10:37:37.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\Configurations\\MongoDbSettings.cs",
-              "RelativeDocumentMoniker": "OrderService\\Configurations\\MongoDbSettings.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceApp\\OrderService\\Configurations\\MongoDbSettings.cs",
-              "RelativeToolTip": "OrderService\\Configurations\\MongoDbSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T10:37:23.957Z",
+              "WhenOpened": "2025-02-11T10:56:58.78Z",
               "EditorCaption": ""
             }
           ]

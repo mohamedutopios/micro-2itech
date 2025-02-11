@@ -9,7 +9,5 @@ namespace CustomerService.Services
         Task AddCustomerAsync(Customer customer);
         Task UpdateCustomerAsync(Customer customer);
         Task DeleteCustomerAsync(int id);
-
-
     }
 }
