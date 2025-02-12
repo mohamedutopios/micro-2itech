@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB3F3606-7FFE-495D-A548-3A85E7664C00}|OrderService\\OrderService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceappcomgate\\orderservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F3606-7FFE-495D-A548-3A85E7664C00}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BC287B-26E5-4D2D-8097-ABC41B9A0927}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceappcomgate\\customerservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BC287B-26E5-4D2D-8097-ABC41B9A0927}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BC287B-26E5-4D2D-8097-ABC41B9A0927}|CustomerService\\CustomerService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceappcomgate\\customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BC287B-26E5-4D2D-8097-ABC41B9A0927}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F3606-7FFE-495D-A548-3A85E7664C00}|OrderService\\OrderService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceappcomgate\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F3606-7FFE-495D-A548-3A85E7664C00}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA6143D8-9099-4339-B8BB-BF7CB1D99EBF}|ProductService\\ProductService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceappcomgate\\productservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA6143D8-9099-4339-B8BB-BF7CB1D99EBF}|ProductService\\ProductService.csproj|solutionrelative:productservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6143D8-9099-4339-B8BB-BF7CB1D99EBF}|ProductService\\ProductService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceappcomgate\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6143D8-9099-4339-B8BB-BF7CB1D99EBF}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +40,78 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\OrderService\\Services\\ConfigService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\ConfigService.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\OrderService\\Services\\ConfigService.cs*",
+              "RelativeToolTip": "OrderService\\Services\\ConfigService.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:20:03.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigService.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\ProductService\\Services\\ConfigService.cs",
               "RelativeDocumentMoniker": "ProductService\\Services\\ConfigService.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\ProductService\\Services\\ConfigService.cs*",
-              "RelativeToolTip": "ProductService\\Services\\ConfigService.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBgAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\ProductService\\Services\\ConfigService.cs",
+              "RelativeToolTip": "ProductService\\Services\\ConfigService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T13:26:01.901Z",
+              "WhenOpened": "2025-02-12T14:14:46.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\ProductService\\Program.cs",
+              "RelativeToolTip": "ProductService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:14:27.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:13:22.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\CustomerService\\Services\\ConfigService.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Services\\ConfigService.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\CustomerService\\Services\\ConfigService.cs",
+              "RelativeToolTip": "CustomerService\\Services\\ConfigService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:08:00.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\CustomerService\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\CustomerService\\Program.cs",
+              "RelativeToolTip": "CustomerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:58:36.485Z",
               "EditorCaption": ""
             }
           ]
