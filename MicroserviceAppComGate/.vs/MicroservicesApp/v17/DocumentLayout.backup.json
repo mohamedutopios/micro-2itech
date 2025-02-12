@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppCom\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6143D8-9099-4339-B8BB-BF7CB1D99EBF}|ProductService\\ProductService.csproj|c:\\users\\administrateur\\documents\\micro-2itech\\microserviceappcomgate\\productservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6143D8-9099-4339-B8BB-BF7CB1D99EBF}|ProductService\\ProductService.csproj|solutionrelative:productservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\ProductService\\Services\\ConfigService.cs",
+              "RelativeDocumentMoniker": "ProductService\\Services\\ConfigService.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\micro-2itech\\MicroserviceAppComGate\\ProductService\\Services\\ConfigService.cs*",
+              "RelativeToolTip": "ProductService\\Services\\ConfigService.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:26:01.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

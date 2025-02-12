@@ -5,11 +5,20 @@ using ProductService.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuration d'Entity Framework Core avec PostgreSQL
-builder.Services.AddDbContext<ProductContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddHttpClient<ConfigService>(client =>
+{
+    client.BaseAddress = new Uri("http://localhost:8888/");
+});
 
-// Injection des dépendances pour le Repository Pattern
+var serviceProvider = builder.Services.BuildServiceProvider();
+var configService = serviceProvider.GetRequiredService<ConfigService>();
+
+var connectionString = await configService.GetConnectionStringAsync("product-service");
+
+builder.Services.AddDbContext<ProductContext>(options =>
+options.UseNpgsql(connectionString));
+
+
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductsService, ProductsService>();
 
