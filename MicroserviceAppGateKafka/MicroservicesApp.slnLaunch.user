@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "LancementGateway",
+    "Projects": [
+      {
+        "Path": "ProductService\\ProductService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "OrderService\\OrderService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "CustomerService\\CustomerService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "ApiGateway\\ApiGateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
