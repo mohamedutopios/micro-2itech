@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ypofkcgXv6LDwxLBLOXORzj5UbC0ARwCuXBxMUaekEE=",
+  "Source": "InventaireService",
+  "BasePath": "_content/InventaireService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
